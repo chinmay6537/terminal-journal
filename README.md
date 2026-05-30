@@ -4,7 +4,7 @@ A fully-featured, beautiful digital journal that lives entirely in your terminal
 
 ```
   ╔══════════════════════════════════════════════════════╗
-  ║        ✦  T E R M I N A L   J O U R N A L  ✦        ║
+  ║        ✦  T E R M I N A L   J O U R N A L  ✦         ║
   ╚══════════════════════════════════════════════════════╝
 
   Hello, Bhakti!  Friday, 30 May 2026
